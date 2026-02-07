@@ -43,7 +43,7 @@
 			<name>facebook_dev</name>
 			<url>http://192.168.10.128:8081/repository/facebook-release/</url>
 		</repository>
-		<snapshoRepository>
+		<snapshotRepository>
 			<id>nexus</id>
 			<name>facebook_dev</name>
 			<url>http://192.168.10.128:8081/repository/facebook-snapshot/</url>
