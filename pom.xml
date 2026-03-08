@@ -13,9 +13,9 @@
 	<organization>
 		<name>Mithun Technologies</name>
 		<url>http://mithuntechnologies.com/</url>
-	</organization> -->
+	</organization> 
 	
-	<description>Maven Standalone Application</description>
+	<description>Maven Standalone Application</description> -->
 
 	<properties>
 		<sonar.host.url>http://192.168.10.128:9000/</sonar.host.url>
@@ -79,7 +79,7 @@
 	          <manifest>
 	            <addClasspath>true</addClasspath>
 	            <classpathPrefix>lib/</classpathPrefix>
-	            <mainClass>com.mt.sample.HelloWorld</mainClass>
+	            <mainClass>com.mt.sample.helloworld</mainClass>
 	          </manifest>
 	        </archive>
 	      </configuration>
