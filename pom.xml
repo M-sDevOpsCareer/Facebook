@@ -6,14 +6,14 @@
 	<artifactId>maven-standalone-application</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-
+   /*
 	<name>maven-standalone-application</name>
 	<url>http://mithuntechnologies.com</url>
 
 	<organization>
 		<name>Mithun Technologies</name>
 		<url>http://mithuntechnologies.com/</url>
-	</organization>
+	</organization> */
 	
 	<description>Maven Standalone Application</description>
 
