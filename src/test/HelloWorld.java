@@ -6,7 +6,8 @@ package com.mt.sample;
  */
 import java.util.Date;
 
-public class HelloWorldTest {
+public class HelloWorld
+{
 
 	public static void main(String[] args) 
 	{
