@@ -27,7 +27,7 @@ pipeline
                 sh 'mvn clean sonar:sonar'//credentials in pom.xml file 
              }
         }
-        /*
+        
         stage('UploadArtifactsIntoNexusServer') 
          {
              steps 
@@ -35,6 +35,6 @@ pipeline
                 sh 'mvn clean deploy'//nexus repo urls in pom.xml & credentials in jenkins/tools/maven dir settings.xml file 
              }
         }
-        */
+        
     }
 }
