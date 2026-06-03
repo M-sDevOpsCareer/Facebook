@@ -5,7 +5,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-standalone-application</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
    <!--
 	<name>maven-standalone-application</name>
 	<url>http://mithuntechnologies.com</url>
